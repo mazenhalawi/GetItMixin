@@ -1,6 +1,6 @@
 # getitmixin
 
-A new Flutter project.
+A Flutter demo for my Flutter students showing how to utilize a Service Locator and a State Management from one package (GetItMixin). 
 
 ## Getting Started
 
